@@ -1,9 +1,11 @@
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.pinimg.com/originals/85/42/a8/8542a81e840d9182a049e78a5aad717d.gif">
-
-<div dsplay="inline-block"> 
+<div dsplay="inline-block">
  <h1 align="left">Vitor Ionã</h1>
+
+ <img align="right" width="150px" style="margin-top:-20px" src="https://i.pinimg.com/originals/85/42/a8/8542a81e840d9182a049e78a5aad717d.gif">
+
  </br>
 </br>
+
  <a href="">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -14,6 +16,7 @@
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
+
 </br>
 </br>
 <h2>Hello, Devs!!</h2>
