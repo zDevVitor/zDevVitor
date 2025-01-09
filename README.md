@@ -21,7 +21,7 @@
 </br>
 <h2>Hello, Devs!!</h2>
 
-Tenho 27 anos, atualmente vivo em Minas Gerais, sou um programador apaixonado por aprendizado contínuo, com uma curiosidade insaciável por todas as linguagens e frameworks de programação. Programar não é apenas uma profissão para mim; é uma verdadeira paixão. Dedicar horas, dias, ou o tempo que for necessário ao desenvolvimento de software nunca é um sacrifício, mas sim uma oportunidade de crescimento e inovação.
+Tenho 25 anos, atualmente vivo em Minas Gerais, sou um programador apaixonado por aprendizado contínuo, com uma curiosidade insaciável por todas as linguagens e frameworks de programação. Programar não é apenas uma profissão para mim; é uma verdadeira paixão. Dedicar horas, dias, ou o tempo que for necessário ao desenvolvimento de software nunca é um sacrifício, mas sim uma oportunidade de crescimento e inovação.
 </br>
 </br>
 <p align="center">
